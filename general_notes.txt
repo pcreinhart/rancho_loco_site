@@ -1,0 +1,3 @@
+/* Java Script and CSS Comments */ 
+# Python Comment
+<!-- html comments -->

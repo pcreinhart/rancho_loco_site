@@ -1,0 +1,34 @@
+h1 {
+  font-family: Railway;
+  color: rgb(94, 92, 92);
+  font-weight: lighter;
+  font-size: 48px
+}
+h2 {
+  font-family: Lato;
+  color: rgb(94, 92, 92);
+  font-weight: lighter;
+  font-size: 24px
+}
+p {
+    font-family: Lato;
+    color: rgb(77, 77, 77);
+    font-size: 16px;
+    font-weight: normal 
+
+  }
+  
+  p.condensed {
+    font-family: Open Sans ;
+    color: rgb(41, 41, 41);
+    font-size: 13px;
+    font-weight: normal 
+
+  }
+
+  li {
+    font-family: Open Sans;
+    color: grey;
+    font-size: 13px
+    
+  }

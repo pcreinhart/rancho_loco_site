@@ -1,0 +1,33 @@
+
+Page_Home (index.html)
+    Section_
+    Section_
+        Article_
+Page_RanchoLoco_Redmond (redmond.html)
+    Section_ 
+Page_RanchoLoco_Oregon
+    Section_The Narative
+    Section_Location
+    Section_The Infrastructure
+
+    Section_
+        Article_
+Page_RanchoLoco_The Peeps
+    Section_
+    Section_
+        Article_
+            Section_
+Page_SomethingPage_Home
+    Section_
+    Section_
+        Article_
+Page_SomethingPage_Home
+    Section_
+    Section_
+        Article_
+Page_SomethingPage_Home
+    Section_
+    Section_
+        Article_
+Page_Something
+
